@@ -8,8 +8,6 @@
 
 - **[Hotel Revenue Management](https://github.com/jeanattie02-web/Hotel-Revenue-Management-Analysis)** : prédiction du prix journalier d'hôtels. Pipeline Python modulaire, Random Forest (erreur moyenne de 9,6 €), analyse des résidus, tests automatisés.
 - **[Quote Optimizer](https://github.com/jeanattie02-web/quote-optimizer)** : application de chiffrage de devis. Interface Streamlit, API FastAPI, base SQLite, export PDF et Excel, intégration continue.
-- **[Simulateur de particules](https://github.com/jeanattie02-web/Simulateur-Particule-C)** : simulation physique 2D en C99, projet d'équipe à l'ENSIIE.
-
 ## Outils
 
 Python (Pandas, scikit-learn, Matplotlib) · SQL · R · Git et GitHub Actions · FastAPI · Streamlit
